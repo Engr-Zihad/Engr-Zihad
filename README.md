@@ -4,7 +4,7 @@
 <!--                        BANNER                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=260&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Engineer%20%7C%20Web%20Developer%20%7C%20CSE%20%40%20HSTU%2C%20Dinajpur%20⚡&descAlignY=60&descSize=18&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=260&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%20Expert%20%7C%20Creator%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -110,28 +110,12 @@
 
 ---
 
-## 📌 My Projects
-
-<div align="center">
-
-> 🚀 **Check out my pinned repositories below for all live projects!**
-> Each one is deployed on GitHub Pages with real features and real users.
-
-[![NeuralCore](https://img.shields.io/badge/🧠%20NeuralCore-AI%20%2F%20ML%20Website-00b4d8?style=for-the-badge&labelColor=0d1117)](https://engr-zihad.github.io/neuralcore/)
-[![First Infinity](https://img.shields.io/badge/📱%20First%20Infinity-Bengali%20Social%20PWA-blueviolet?style=for-the-badge&labelColor=0d1117)](https://engr-zihad.github.io/first-infinity/)
-[![NexaSMS](https://img.shields.io/badge/📨%20NexaSMS-Free%20SMS%20Receiver-00EA64?style=for-the-badge&labelColor=0d1117)](https://engr-zihad.github.io/free-sms/)
-[![Portfolio](https://img.shields.io/badge/🖥️%20Portfolio-Personal%20Site-f0a500?style=for-the-badge&labelColor=0d1117)](https://engr-zihad.github.io/)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Engr-Zihad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&icon_color=00b4d8&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Zihad&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&langs_count=6" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Engr-Zihad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&icon_color=00b4d8&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Engr-Zihad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&langs_count=8" />
 
 </div>
 
