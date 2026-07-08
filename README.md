@@ -1,125 +1,95 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        BANNER                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Web%20Apps%20%20%7C%20%20Competitive%20Programmer%20%20%7C%20%20Future%20Grad%20Student&descAlignY=58&descSize=15&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=260&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%20Expert%20%7C%20Creator%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Hey%21+I%27m+Zihad+%F0%9F%91%8B+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;CSE+Student+%40+HSTU%2C+Dinajpur+%F0%9F%8E%93;Building+with+React%2C+TypeScript+%26+Firebase+%F0%9F%94%A5;Competitive+Programmer+%7C+C%2B%2B+on+Codeforces+%F0%9F%92%BB;Shipping+real%2C+working+apps+%F0%9F%9A%80;Future+Grad+Student+%7C+IELTS+in+Progress+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<a href="https://github.com/Engr-Zihad"><img src="https://img.shields.io/badge/GitHub-Engr--Zihad-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-mojahidul-islam-zihad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mojahidulislamzihad686@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00B4D8&center=true&vCenter=true&width=750&lines=Hey!+I'm+Zihad+%F0%9F%91%8B+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;CSE+Student+%40+HSTU%2C+Dinajpur+%F0%9F%8E%93;Web+Dev+%7C+Firebase+%7C+JavaScript+%F0%9F%94%A5;Building+Real+Projects%2C+Not+Just+Dreams+%F0%9F%9A%80;Competitive+Programmer+%7C+C%2B%2B+%2B+Codeforces+%F0%9F%92%BB;Future+Grad+Student+%7C+IELTS+in+Progress+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CONTACT BADGES — TOP                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/Engr-Zihad">
-  <img src="https://img.shields.io/badge/GitHub-Engr--Zihad-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/md-mojahidul-islam-zihad">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/md.mojahidul.islam.zihad.2024">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://t.me/01724999047">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://wa.me/8801724999047">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:mojahidulislamzihad686@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://engr-zihad.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    PROFILE STATS ROW                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-[![GitHub followers](https://img.shields.io/github/followers/Engr-Zihad?label=Followers&style=flat-square&color=00b4d8&labelColor=0d1117&logo=github)](https://github.com/Engr-Zihad)
-![Profile Views](https://komarev.com/ghpvc/?username=Engr-Zihad&style=flat-square&color=00b4d8&label=Profile+Views)
-[![GitHub stars](https://img.shields.io/github/stars/Engr-Zihad?style=flat-square&color=ffd700&labelColor=0d1117&logo=github&label=Total+Stars)](https://github.com/Engr-Zihad)
+<sub>
+<a href="https://t.me/01724999047"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://wa.me/8801724999047"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.facebook.com/md.mojahidul.islam.zihad.2024"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+</sub>
 
 </div>
 
 <br/>
 
----
+## 👋 About Me
 
-## 🙋 Who Am I?
+CSE undergraduate at **Hajee Mohammad Danesh Science & Technology University (HSTU)**, Dinajpur, Bangladesh 🇧🇩. I turn ideas into shipped, working products — usually solo, usually fast — rather than just tutorial-following. My most recent build is a Bengali-language AI health assistant with a real production stack: React, TypeScript, and Supabase.
 
-> **CSE Student** at **Hajee Mohammad Danesh Science & Technology University (HSTU)**, Dinajpur 🇧🇩
-> Building real web projects with **HTML · CSS · JavaScript · Firebase · Cloudflare Workers**
-> Grinding **C++ on Codeforces**, preparing for **IELTS**, aiming for **Graduate School abroad** 🌍
-
----
-
-## 🔥 What I'm Doing Right Now
-
-<table>
-<tr><td>🔭 <b>Working on</b></td><td>Full-stack web apps with Firebase & Cloudflare Workers</td></tr>
-<tr><td>🌱 <b>Learning</b></td><td>C++ for Competitive Programming — Codeforces Div. 3</td></tr>
-<tr><td>🎯 <b>Next Goal</b></td><td>IELTS 7.0+ → Graduate School Abroad 🌍</td></tr>
-<tr><td>👯 <b>Open to</b></td><td>Open-source collaborations & CP study partners</td></tr>
-<tr><td>💬 <b>Ask me about</b></td><td>Firebase, Vanilla JS, GitHub Pages deployment</td></tr>
-<tr><td>⚡ <b>Fun fact</b></td><td>I build Bengali-language social apps for fun 🇧🇩</td></tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
+Long-term, I'm building toward a fully-funded **Master's/PhD abroad** 🌍 — so everything here doubles as deliberate profile-building: real projects, competitive programming, and steady research + CGPA growth.
 
 <div align="center">
 
-**🌐 Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🔥 Backend & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**⚙️ Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**📚 Currently Learning**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| | |
+|:---|:---|
+| 🔭 **Building** | Full-stack apps with React, Firebase & Cloudflare Workers |
+| 🌱 **Learning** | C++ for competitive programming — Codeforces Div. 3 |
+| 🎯 **Next goal** | IELTS 7.0+ → funded Master's/PhD abroad |
+| 🤝 **Open to** | Open-source collabs & competitive-programming study partners |
+| 💬 **Ask me about** | Firebase, React, shipping Bengali-language app UX |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py&theme=dark" />
+
+**Currently building with**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,firebase,supabase,workers,vite,git,github,vscode&theme=dark" />
+
+---
+
+## 🚀 Featured Projects
+
+#### 🩺 [Dr. Asha — AI Health Assistant](https://github.com/Engr-Zihad/engr-zihad-aidr)
+
+A Bengali-language AI health assistant — people who aren't comfortable in English can get everyday health guidance in natural, conversational Bangla. My most complete build: full front-to-back TypeScript stack, a real database, and an actual test suite instead of just "it works on my machine."
+
+<a href="https://engr-zihad-aidr.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-00b4d8?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Engr-Zihad/engr-zihad-aidr"><img src="https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite&theme=dark" height="28"/>
+
+<br/>
+
+| Project | What it does | Stack |
+|:---|:---|:---|
+| **[First Infinity](https://github.com/Engr-Zihad/first-infinity)** | Bengali-first social platform — Facebook × Telegram — with a custom admin panel | `HTML` `Firebase` |
+| **[NeuralCore](https://github.com/Engr-Zihad/Neueal-core)** | AI-powered study assistant for university coursework | `HTML` `CSS` `JS` |
+| **[Free SMS](https://github.com/Engr-Zihad/free-sms)** | Free web-based SMS sender that works across operators worldwide | `HTML` `JS` `CSS` |
+| **[Portfolio](https://github.com/Engr-Zihad/portfolio)** | Source for my personal portfolio site | `HTML` `CSS` `JS` |
+| **[Car Game](https://github.com/Engr-Zihad/Car-game)** | Browser-based driving game — an early project for learning canvas/game-loop logic | `JS` `CSS` `HTML` |
+
+---
+
+## 🧮 Competitive Programming
+
+Working through Codeforces Div. 3 problems in C++17 to build the DS & Algo fundamentals that matter for both technical interviews and research work.
+
+<!-- Once you have a Codeforces handle you're ready to show off, uncomment this and swap in your handle: -->
+<!-- [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=YOUR_HANDLE)](https://codeforces.com/profile/YOUR_HANDLE) -->
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Engr-Zihad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&icon_color=00b4d8&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Engr-Zihad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&langs_count=8" />
 
-</div>
-
-<div align="center">
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Engr-Zihad&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555" />
@@ -128,73 +98,27 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Engr-Zihad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Engr-Zihad&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area_color=003566&area=true&hide_border=true&custom_title=Zihad's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🗺️ Roadmap
 
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅  HTML5, CSS3, JavaScript (Vanilla)
-  ✅  Firebase Firestore & Authentication
-  ✅  Cloudflare Workers — Serverless Backend
-  ✅  GitHub Pages Deployment & PWA
-  ✅  Bengali-language full social media platform
-  ✅  AI API Integration (Anthropic / NeuralCore)
-  🔄  C++ — Competitive Programming (Codeforces Div. 3)
-  🔄  IELTS Preparation (Target: 7.0+)
-  ⏳  Data Structures & Algorithms (deep dive)
-  ⏳  React.js / Next.js
-  ⏳  First Open Source Contribution
-  🌍  MS @ Top International University 🎯
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Engr-Zihad"><img src="https://img.shields.io/badge/GitHub-Engr--Zihad-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/md-mojahidul-islam-zihad"><img src="https://img.shields.io/badge/LinkedIn-Zihad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/md.mojahidul.islam.zihad.2024"><img src="https://img.shields.io/badge/Facebook-Zihad-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://t.me/01724999047"><img src="https://img.shields.io/badge/Telegram-01724999047-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://wa.me/8801724999047"><img src="https://img.shields.io/badge/WhatsApp-01724999047-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:mojahidulislamzihad686@gmail.com"><img src="https://img.shields.io/badge/Gmail-mojahidulislamzihad686-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://engr-zihad.github.io"><img src="https://img.shields.io/badge/Portfolio-engr--zihad.github.io-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
+- [x] HTML5, CSS3, JavaScript (Vanilla)
+- [x] Firebase — Firestore & Authentication
+- [x] Cloudflare Workers — serverless backend
+- [x] TypeScript + React + Supabase, shipped to production
+- [x] Bengali-language full-stack apps (2 shipped)
+- [ ] C++ — competitive programming (Codeforces Div. 3)
+- [ ] IELTS preparation — target 7.0+
+- [ ] Data Structures & Algorithms — deep dive
+- [ ] First open-source contribution
+- [ ] 🌍 Master's/PhD @ a top international university
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 ### 💬 *"Build it. Break it. Fix it. Ship it."*
 
-**⭐ কোনো project কাজে লাগলে একটা star দিয়ে যেও — অনেক অনুপ্রেরণা পাই! 🚀**
+**⭐ কোনো প্রজেক্ট কাজে লাগলে একটা স্টার দিয়ে যেও — অনেক অনুপ্রেরণা পাই! 🚀**
 
 </div>
