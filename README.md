@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Web%20Apps%20%20%7C%20%20Competitive%20Programmer%20%20%7C%20%20Future%20Grad%20Student&descAlignY=58&descSize=15&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Web%20Apps%20%20%7C%20%20Competitive%20Programmer%20%20%7C%20%20Problem%20Solver&descAlignY=58&descSize=15&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Hey%21+I%27m+Zihad+%F0%9F%91%8B+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;CSE+Student+%40+HSTU%2C+Dinajpur+%F0%9F%8E%93;Building+with+React%2C+TypeScript+%26+Firebase+%F0%9F%94%A5;Competitive+Programmer+%7C+C%2B%2B+on+Codeforces+%F0%9F%92%BB;Shipping+real%2C+working+apps+%F0%9F%9A%80;Future+Grad+Student+%7C+IELTS+in+Progress+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Hey%21+I%27m+Zihad+%F0%9F%91%8B+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;CSE+Student+%40+HSTU%2C+Dinajpur+%F0%9F%8E%93;Building+with+React%2C+TypeScript+%26+Firebase+%F0%9F%94%A5;Competitive+Programmer+%7C+C%2B%2B+Problem+Solver+%F0%9F%92%BB;Shipping+real%2C+working+apps+%F0%9F%9A%80;Always+open+to+good+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,7 +13,7 @@
 <sub>
 <a href="https://t.me/01724999047"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://wa.me/8801724999047"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.facebook.com/md.mojahidul.islam.zihad.2024"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/Engr.Zihad.O"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </sub>
 
 </div>
@@ -24,15 +24,14 @@
 
 CSE undergraduate at **Hajee Mohammad Danesh Science & Technology University (HSTU)**, Dinajpur, Bangladesh 🇧🇩. I turn ideas into shipped, working products — usually solo, usually fast — rather than just tutorial-following. My most recent build is a Bengali-language AI health assistant with a real production stack: React, TypeScript, and Supabase.
 
-Long-term, I'm building toward a fully-funded **Master's/PhD abroad** 🌍 — so everything here doubles as deliberate profile-building: real projects, competitive programming, and steady research + CGPA growth.
+I care about building for Bangla speakers first — most of what I ship supports Bangla out of the box, not as an afterthought.
 
 <div align="center">
 
 | | |
 |:---|:---|
 | 🔭 **Building** | Full-stack apps with React, Firebase & Cloudflare Workers |
-| 🌱 **Learning** | C++ for competitive programming — Codeforces Div. 3 |
-| 🎯 **Next goal** | IELTS 7.0+ → funded Master's/PhD abroad |
+| 🌱 **Learning** | C++ for competitive programming |
 | 🤝 **Open to** | Open-source collabs & competitive-programming study partners |
 | 💬 **Ask me about** | Firebase, React, shipping Bengali-language app UX |
 
@@ -40,23 +39,16 @@ Long-term, I'm building toward a fully-funded **Master's/PhD abroad** 🌍 — s
 
 ---
 
-## 🧰 Tech Stack
-
-**Core**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py&theme=dark" />
-
-**Currently building with**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,firebase,supabase,workers,vite,git,github,vscode&theme=dark" />
-
----
-
 ## 🚀 Featured Projects
 
 #### 🩺 [Dr. Asha — AI Health Assistant](https://github.com/Engr-Zihad/engr-zihad-aidr)
 
-A Bengali-language AI health assistant — people who aren't comfortable in English can get everyday health guidance in natural, conversational Bangla. My most complete build: full front-to-back TypeScript stack, a real database, and an actual test suite instead of just "it works on my machine."
+A Bengali-language AI health assistant — people who aren't comfortable in English can get everyday health guidance in natural, conversational Bangla. My most complete build to date.
+
+- 💬 Conversational health guidance, entirely in Bangla
+- ⚛️ React + TypeScript frontend, Supabase backend
+- ✅ Automated testing with Playwright & Vitest — not just "it works on my machine"
+- ☁️ Deployed live on Vercel
 
 <a href="https://engr-zihad-aidr.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-00b4d8?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Engr-Zihad/engr-zihad-aidr"><img src="https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -74,12 +66,22 @@ A Bengali-language AI health assistant — people who aren't comfortable in Engl
 
 ---
 
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**
+Hajee Mohammad Danesh Science & Technology University (HSTU), Dinajpur, Bangladesh
+
+Coursework spans Data Structures & Algorithms, Database Systems, Computer Architecture, OOP, and Web Engineering.
+
+---
+
 ## 🧮 Competitive Programming
 
-Working through Codeforces Div. 3 problems in C++17 to build the DS & Algo fundamentals that matter for both technical interviews and research work.
+Practicing algorithmic problem-solving in C++ — building the DS & Algo fundamentals that matter for technical interviews and research work alike.
 
-<!-- Once you have a Codeforces handle you're ready to show off, uncomment this and swap in your handle: -->
-<!-- [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=YOUR_HANDLE)](https://codeforces.com/profile/YOUR_HANDLE) -->
+<a href="https://judge.beecrowd.com/profile/1262682"><img src="https://img.shields.io/badge/Beecrowd-engr__zihad-00b4d8?style=for-the-badge&logoColor=white" /></a>
+
+Also working through Codeforces problems in C++17 — handle coming soon.
 
 ---
 
@@ -94,22 +96,15 @@ Working through Codeforces Div. 3 problems in C++17 to build the DS & Algo funda
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Engr-Zihad&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555" />
 
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Engr-Zihad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Engr-Zihad&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area_color=003566&area=true&hide_border=true&custom_title=Zihad's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
-
----
-
-## 🗺️ Roadmap
-
-- [x] HTML5, CSS3, JavaScript (Vanilla)
-- [x] Firebase — Firestore & Authentication
-- [x] Cloudflare Workers — serverless backend
-- [x] TypeScript + React + Supabase, shipped to production
-- [x] Bengali-language full-stack apps (2 shipped)
-- [ ] C++ — competitive programming (Codeforces Div. 3)
-- [ ] IELTS preparation — target 7.0+
-- [ ] Data Structures & Algorithms — deep dive
-- [ ] First open-source contribution
-- [ ] 🌍 Master's/PhD @ a top international university
 
 ---
 
