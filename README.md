@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Web%20Apps%20%20%7C%20%20Competitive%20Programmer%20%20%7C%20%20Problem%20Solver&descAlignY=58&descSize=15&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Md%20Mojahidul%20Islam%20Zihad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Web%20Apps%20%20%7C%20%20Competitive%20Programmer%20%20%7C%20%20Problem%20Solver&descAlignY=58&descSize=15&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Hey%21+I%27m+Zihad+%F0%9F%91%8B+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;CSE+Student+%40+HSTU%2C+Dinajpur+%F0%9F%8E%93;Building+with+React%2C+TypeScript+%26+Firebase+%F0%9F%94%A5;Competitive+Programmer+%7C+C%2B%2B+Problem+Solver+%F0%9F%92%BB;Shipping+real%2C+working+apps+%F0%9F%9A%80;Always+open+to+good+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
@@ -22,9 +22,20 @@
 
 ## 👋 About Me
 
-CSE undergraduate at **Hajee Mohammad Danesh Science & Technology University (HSTU)**, Dinajpur, Bangladesh 🇧🇩. I turn ideas into shipped, working products — usually solo, usually fast — rather than just tutorial-following. My most recent build is a Bengali-language AI health assistant with a real production stack: React, TypeScript, and Supabase.
+```js
+const zihad = {
+  from: "Dinajpur, Bangladesh 🇧🇩",
+  university: "HSTU — B.Sc in CSE",
+  currentlyShipping: "Dr. Asha — an AI health assistant, fully in Bangla",
+  stack: ["React", "TypeScript", "Firebase", "Supabase", "C++"],
+  solvingProblemsOn: ["Beecrowd", "Codeforces"],
+  motto: "Build it. Break it. Fix it. Ship it.",
+};
 
-I care about building for Bangla speakers first — most of what I ship supports Bangla out of the box, not as an afterthought.
+zihad.ship(); // → always in progress
+```
+
+I turn ideas into shipped, working products — usually solo, usually fast — rather than just tutorial-following. I care about building for Bangla speakers first: most of what I ship supports Bangla out of the box, not as an afterthought.
 
 <div align="center">
 
@@ -56,13 +67,25 @@ A Bengali-language AI health assistant — people who aren't comfortable in Engl
 
 <br/>
 
-| Project | What it does | Stack |
-|:---|:---|:---|
-| **[First Infinity](https://github.com/Engr-Zihad/first-infinity)** | Bengali-first social platform — Facebook × Telegram — with a custom admin panel | `HTML` `Firebase` |
-| **[NeuralCore](https://github.com/Engr-Zihad/Neueal-core)** | AI-powered study assistant for university coursework | `HTML` `CSS` `JS` |
-| **[Free SMS](https://github.com/Engr-Zihad/free-sms)** | Free web-based SMS sender that works across operators worldwide | `HTML` `JS` `CSS` |
-| **[Portfolio](https://github.com/Engr-Zihad/portfolio)** | Source for my personal portfolio site | `HTML` `CSS` `JS` |
-| **[Car Game](https://github.com/Engr-Zihad/Car-game)** | Browser-based driving game — an early project for learning canvas/game-loop logic | `JS` `CSS` `HTML` |
+#### 🌐 [First Infinity](https://github.com/Engr-Zihad/first-infinity)
+A Bengali-first social platform — Facebook × Telegram — built from scratch with a custom admin panel for content moderation.
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase&theme=dark" height="26"/>
+
+#### 🧠 [NeuralCore](https://github.com/Engr-Zihad/Neueal-core)
+An AI-powered study assistant for university coursework — quick explanations and exam prep on demand.
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="26"/>
+
+#### 📱 [Free SMS](https://github.com/Engr-Zihad/free-sms)
+A free, web-based SMS sender that works across mobile operators worldwide — no carrier lock-in.
+<img src="https://skillicons.dev/icons?i=html,js,css&theme=dark" height="26"/>
+
+#### 🌍 [Portfolio](https://github.com/Engr-Zihad/portfolio)
+Source code for my personal portfolio site.
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="26"/>
+
+#### 🚗 [Car Game](https://github.com/Engr-Zihad/Car-game)
+A browser-based driving game — an early project for learning canvas rendering and game-loop logic.
+<img src="https://skillicons.dev/icons?i=js,css,html&theme=dark" height="26"/>
 
 ---
 
@@ -79,9 +102,25 @@ Coursework spans Data Structures & Algorithms, Database Systems, Computer Archit
 
 Practicing algorithmic problem-solving in C++ — building the DS & Algo fundamentals that matter for technical interviews and research work alike.
 
-<a href="https://judge.beecrowd.com/profile/1262682"><img src="https://img.shields.io/badge/Beecrowd-engr__zihad-00b4d8?style=for-the-badge&logoColor=white" /></a>
+<a href="https://judge.beecrowd.com/profile/1262682"><img src="https://img.shields.io/badge/Beecrowd-engr__zihad-00b4d8?style=for-the-badge" /></a>
 
 Also working through Codeforces problems in C++17 — handle coming soon.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engr-Zihad/Engr-Zihad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engr-Zihad/Engr-Zihad/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Engr-Zihad/Engr-Zihad/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> 🕹️ A real snake game generated from my actual contribution graph — automated by GitHub Actions, regenerated daily. Setup file included below.
 
 ---
 
